@@ -1,148 +1,108 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YashYadav007&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" align="right" />
+<img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/hero.svg" width="100%" alt="Yash Yadav animated hero" />
+
+<br/>
+
+<a href="https://github.com/YashYadav007?tab=repositories"><img src="https://img.shields.io/badge/01_CODE-0A0F18?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
+<a href="#selected-work"><img src="https://img.shields.io/badge/02_BUILDS-0A0F18?style=for-the-badge&logo=rocket&logoColor=A78BFA" /></a>
+<a href="#arcade"><img src="https://img.shields.io/badge/03_PLAY-0A0F18?style=for-the-badge&logo=gameandwatch&logoColor=22D3EE" /></a>
 
 <br/><br/>
 
-# Hey, I'm Yash 👋
-
-### Software Engineer · AI Builder · Backend · Full Stack
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=I+build+things+for+the+web+and+occasionally+give+them+a+brain.;AI+%2F+Backend+%2F+Systems;Currently+turning+ideas+into+working+products." alt="Typing SVG" />
-
-<br/>
-
-<img width="430" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
-
-<br/><br/>
-
-`Computer Science @ TIET` &nbsp;·&nbsp; `AI / Backend` &nbsp;·&nbsp; `Full Stack / Systems`
-
-<br/>
-
-<a href="https://github.com/YashYadav007?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,rust,java,mysql,postgres,supabase,git,github,docker&theme=dark&perline=15" alt="Stack" />
 
 </div>
 
 <br/>
 
----
+<a id="selected-work"></a>
 
-<div align="center">
+### `01 / SELECTED WORK`
 
-## ⚡ Languages & Tools
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,rust,java,mysql,postgres,supabase,git,github,docker&perline=15" alt="Tech stack" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🚀 Featured Builds
-
-</div>
-
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 Autonomous AI Agent
-
-An autonomous Windows AI agent built around Python, automation and intelligent task execution.
-
-**`Python` · `AI` · `Automation`**
-
-[**Explore repository →**](https://github.com/YashYadav007/-Autonomous-AI-Agent-For-Windows)
-
+<td width="50%">
+<a href="https://github.com/YashYadav007/-Autonomous-AI-Agent-For-Windows"><img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/project-agent.svg" width="100%" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 🏋️ GenAI Virtual Fitness Trainer
-
-AI-powered virtual trainer with real-time pose tracking, coaching, voice feedback, rep counting and form correction.
-
-**`TypeScript` · `MediaPipe` · `FastAPI` · `GenAI`**
-
-[**Explore repository →**](https://github.com/YashYadav007/GenAI-Based-Virtual-Fitness-Trainer)
-
+<td width="50%">
+<a href="https://github.com/YashYadav007/GenAI-Based-Virtual-Fitness-Trainer"><img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/project-fitness.svg" width="100%" /></a>
 </td>
 </tr>
 </table>
 
 <br/>
 
----
+### `02 / ACTIVITY`
 
 <div align="center">
 
-## 📊 GitHub in Numbers
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashYadav007&bg_color=0A0F18&color=94A3B8&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="Contribution activity graph" />
 
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YashYadav007&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=8B949E&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashYadav007&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=8B949E&langs_count=6" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashYadav007/YashYadav007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashYadav007/YashYadav007/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
 <br/>
 
----
+### `03 / SYSTEM LOADOUT`
 
 <div align="center">
 
-## 🐍 My Contributions
-
-<br/>
-
-<p><i>The snake is waking up. Next module loading...</i></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashYadav007&show_icons=true&hide_border=true&bg_color=0A0F18&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&rank_icon=github" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YashYadav007&hide_border=true&background=0A0F18&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="streak" />
 
 </div>
 
----
+<br/>
+
+<a id="arcade"></a>
+
+### `04 / ARCADE`
 
 <div align="center">
 
-## 🎮 Wanna play instead?
-
-I’m building an interactive version of my profile — games, terminal commands, easter eggs and all the unnecessary fun stuff.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=%3E+INSERT+COIN;%3E+YASH.EXE+LOADED;%3E+SELECT%3A+EXPLORE+%2F+PLAY+%2F+TERMINAL;%3E+interactive+mode+coming+online..." alt="Arcade typing" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=%3E+launch+yash.exe;%3E+select+mode%3A+EXPLORE+%2F+PLAY+%2F+TERMINAL;%3E+coming+soon..." alt="Yash exe" />
+<a href="https://github.com/YashYadav007?tab=repositories"><img src="https://img.shields.io/badge/%E2%96%B6_EXPLORE-111827?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
+&nbsp;
+<a href="https://github.com/YashYadav007"><img src="https://img.shields.io/badge/%3E__TERMINAL-111827?style=for-the-badge&logo=gnubash&logoColor=A78BFA" /></a>
+
+<br/><br/>
 
 <details>
-<summary><b>⚠️ definitely don't click this</b></summary>
+<summary><code>🎮 unlock_secret.exe</code></summary>
 <br/>
 
 ```text
+PLAYER: visitor
+QUEST: find a developer
+
 > sudo hire yash
 
-checking candidate...
+[✓] writes code
+[✓] builds AI systems
+[✓] ships projects
+[✓] survives merge conflicts
 
-✓ can code
-✓ builds AI stuff
-✓ survives merge conflicts
-✓ turns coffee into commits
-
-ACCESS GRANTED.
+ACHIEVEMENT UNLOCKED:
+"you found the secret room"
 ```
 
 </details>
 
 <br/>
 
-### `yash.execute("contact")`
-
-<a href="https://github.com/YashYadav007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=YashYadav007&label=PLAYERS+VISITED&color=0ea5e9&style=flat-square" />
 
 <br/><br/>
 
-<sub>built with code, caffeine, and questionable commit messages.</sub>
+<sub>PRESS START · BUILD SOMETHING WEIRD</sub>
 
 </div>
