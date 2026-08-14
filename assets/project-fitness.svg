@@ -1,0 +1,12 @@
+<svg width="570" height="250" viewBox="0 0 570 250" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<rect width="570" height="250" rx="22" fill="#0A0F18"/><rect x="1" y="1" width="568" height="248" rx="21" fill="none" stroke="#253247"/>
+<text x="28" y="42" fill="#64748B" font-family="ui-monospace,monospace" font-size="15">02 / SELECTED WORK</text>
+<text x="28" y="85" fill="#F8FAFC" font-family="Inter,Arial" font-size="27" font-weight="700">GENAI FITNESS TRAINER</text>
+<text x="28" y="111" fill="#C4B5FD" font-family="ui-monospace,monospace" font-size="15">VISION / MEDIAPIPE / FASTAPI / GENAI</text>
+<text x="28" y="154" fill="#94A3B8" font-family="Inter,Arial" font-size="16">Real-time pose tracking, rep counting, voice</text>
+<text x="28" y="178" fill="#94A3B8" font-family="Inter,Arial" font-size="16">coaching, form correction and progress feedback.</text>
+<rect x="28" y="202" width="190" height="30" rx="15" fill="#111827" stroke="url(#g)"/>
+<text x="48" y="222" fill="#E2E8F0" font-family="ui-monospace,monospace" font-size="13">OPEN REPOSITORY  ↗</text>
+<g stroke="#22D3EE" stroke-width="3" fill="none"><circle cx="500" cy="58" r="13"/><path d="M500 71v38M500 83l-20 20M500 83l21 18M500 109l-18 31M500 109l22 31"><animate attributeName="stroke" values="#22D3EE;#A78BFA;#22D3EE" dur="2s" repeatCount="indefinite"/></path></g>
+</svg>
