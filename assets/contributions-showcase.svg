@@ -1,0 +1,47 @@
+<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="470"><stop stop-color="#0A0F18"/><stop offset="1" stop-color="#0B111B"/></linearGradient>
+  <linearGradient id="bar" x1="40" y1="0" x2="760" y2="0"><stop stop-color="#22C55E"/><stop offset="1" stop-color="#14B8A6"/></linearGradient>
+</defs>
+<rect width="1200" height="470" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="468" rx="23" stroke="#263244"/>
+<rect x="0" y="0" width="1200" height="6" fill="#3A424E"/>
+<text x="600" y="70" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800">MY CONTRIBUTIONS</text>
+<path d="M40 92H1160" stroke="#334155"/>
+
+<!-- contribution grid -->
+<g transform="translate(40 175)">
+  <g fill="#161D27">
+    <!-- 52 x 7 grid approximated -->
+    <script type="application/ecmascript"><![CDATA[]]></script>
+  </g>
+  <!-- generated columns -->
+  <g id="grid" fill="#161D27">
+    <!-- rows -->
+    <path d="M0 0h14v14H0z M22 0h14v14H22z M44 0h14v14H44z M66 0h14v14H66z M88 0h14v14H88z M110 0h14v14H110z M132 0h14v14H132z M154 0h14v14H154z M176 0h14v14H176z M198 0h14v14H198z M220 0h14v14H220z M242 0h14v14H242z M264 0h14v14H264z M286 0h14v14H286z M308 0h14v14H308z M330 0h14v14H330z M352 0h14v14H352z M374 0h14v14H374z M396 0h14v14H396z M418 0h14v14H418z M440 0h14v14H440z M462 0h14v14H462z M484 0h14v14H484z M506 0h14v14H506z M528 0h14v14H528z M550 0h14v14H550z M572 0h14v14H572z M594 0h14v14H594z M616 0h14v14H616z M638 0h14v14H638z M660 0h14v14H660z M682 0h14v14H682z M704 0h14v14H704z M726 0h14v14H726z M748 0h14v14H748z M770 0h14v14H770z M792 0h14v14H792z M814 0h14v14H814z M836 0h14v14H836z M858 0h14v14H858z M880 0h14v14H880z M902 0h14v14H902z M924 0h14v14H924z M946 0h14v14H946z M968 0h14v14H968z M990 0h14v14H990z M1012 0h14v14H1012z M1034 0h14v14H1034z M1056 0h14v14H1056z M1078 0h14v14H1078z M1100 0h14v14H1100z"/>
+    <use href="#r"/>
+  </g>
+  <g fill="#161D27" transform="translate(0 22)"><use href="#grid"/></g>
+  <g fill="#161D27" transform="translate(0 44)"><use href="#grid"/></g>
+  <g fill="#161D27" transform="translate(0 66)"><use href="#grid"/></g>
+  <g fill="#161D27" transform="translate(0 88)"><use href="#grid"/></g>
+  <g fill="#161D27" transform="translate(0 110)"><use href="#grid"/></g>
+  <g fill="#161D27" transform="translate(0 132)"><use href="#grid"/></g>
+
+  <!-- animated neon trail -->
+  <g>
+    <rect x="176" y="132" width="14" height="14" rx="3" fill="#A0008F"><animate attributeName="opacity" values="0;1;1;.2;0" dur="4s" repeatCount="indefinite"/></rect>
+    <rect x="198" y="110" width="14" height="14" rx="3" fill="#B0009E"><animate attributeName="opacity" values="0;.3;1;1;.2;0" dur="4s" begin=".2s" repeatCount="indefinite"/></rect>
+    <rect x="220" y="132" width="14" height="14" rx="3" fill="#C100AF"><animate attributeName="opacity" values="0;.2;1;1;.2;0" dur="4s" begin=".4s" repeatCount="indefinite"/></rect>
+    <rect x="242" y="132" width="14" height="14" rx="3" fill="#D000C0"><animate attributeName="opacity" values="0;.2;1;1;.2;0" dur="4s" begin=".6s" repeatCount="indefinite"/></rect>
+    <rect x="264" y="132" width="14" height="14" rx="3" fill="#E000D0"><animate attributeName="opacity" values="0;.2;1;1;.2;0" dur="4s" begin=".8s" repeatCount="indefinite"/></rect>
+    <rect x="308" y="44" width="14" height="14" rx="3" fill="#00C853"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></rect>
+  </g>
+</g>
+
+<!-- animated progress line -->
+<rect x="40" y="400" width="0" height="16" rx="8" fill="url(#bar)">
+  <animate attributeName="width" values="0;760;900;760" dur="5s" repeatCount="indefinite"/>
+</rect>
+<text x="40" y="445" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">activity stream // live visualization</text>
+</svg>
