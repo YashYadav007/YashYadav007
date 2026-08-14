@@ -18,11 +18,7 @@
   <rect x="70" y="244" width="740" height="3" fill="url(#cyan)"><animate attributeName="width" values="0;740;740" dur="2.4s" repeatCount="indefinite"/></rect>
   <text x="70" y="292" fill="#D6DEEA" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="24">SOFTWARE / AI / BACKEND / SYSTEMS</text>
   <text x="70" y="337" fill="#7E8A9A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">building useful things, weird things, and things with a brain.</text>
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" font-weight="700">
-    <rect x="70" y="365" width="150" height="38" rx="19" fill="#101A28" stroke="#38BDF8"/><text x="98" y="390" fill="#38BDF8">[ CODE ]</text>
-    <rect x="234" y="365" width="160" height="38" rx="19" fill="#101A28" stroke="#A78BFA"/><text x="257" y="390" fill="#C4B5FD">[ BUILDS ]</text>
-    <rect x="408" y="365" width="140" height="38" rx="19" fill="#101A28" stroke="#22D3EE"/><text x="435" y="390" fill="#67E8F9">[ PLAY ]</text>
-  </g>
+  <text x="70" y="390" fill="#38BDF8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">&gt; ready_to_build_</text>
   <g opacity="0.9">
     <rect x="925" y="115" width="205" height="205" rx="26" fill="#0D1725" stroke="#263244"/>
     <circle cx="1027" cy="196" r="54" stroke="#38BDF8" stroke-width="3" stroke-dasharray="12 10"><animateTransform attributeName="transform" type="rotate" from="0 1027 196" to="360 1027 196" dur="9s" repeatCount="indefinite"/></circle>
