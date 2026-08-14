@@ -55,8 +55,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashYadav007&show_icons=true&hide_border=true&bg_color=0A0F18&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YashYadav007&hide_border=true&background=0A0F18&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashYadav007&show_icons=true&hide_border=true&bg_color=0A0F18&title_color=38BDF8&icon_color=A78BFA&text_color=94A3B8&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashYadav007&layout=compact&hide_border=true&bg_color=0A0F18&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YashYadav007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YashYadav007&hide_border=true&background=0A0F18&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="70%" alt="GitHub streak" />
 
 </div>
 
