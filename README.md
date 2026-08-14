@@ -2,12 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/hero.svg" width="100%" alt="Yash Yadav animated hero" />
 
-<br/>
-
-<a href="https://github.com/YashYadav007?tab=repositories"><img src="https://img.shields.io/badge/01_CODE-0A0F18?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
-<a href="#selected-work"><img src="https://img.shields.io/badge/02_BUILDS-0A0F18?style=for-the-badge&logo=rocket&logoColor=A78BFA" /></a>
-<a href="#arcade"><img src="https://img.shields.io/badge/03_PLAY-0A0F18?style=for-the-badge&logo=gameandwatch&logoColor=22D3EE" /></a>
-
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,rust,java,mysql,postgres,supabase,git,github,docker&theme=dark&perline=15" alt="Stack" />
@@ -30,6 +24,10 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/project-one.svg" width="100%" alt="THE ONE clothing brand" />
+</div>
 
 <br/>
 
