@@ -41,14 +41,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/contributions-showcase.svg" width="100%" alt="Animated contributions showcase" />
-
-<br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashYadav007/YashYadav007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashYadav007/YashYadav007/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashYadav007/YashYadav007/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashYadav007/YashYadav007/gh-pages/github-snake.svg" />
+  <img alt="snake eating GitHub contributions" src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/gh-pages/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
