@@ -41,7 +41,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashYadav007&bg_color=0A0F18&color=94A3B8&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="Contribution activity graph" />
+<img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/contributions-showcase.svg" width="100%" alt="Animated contributions showcase" />
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashYadav007/YashYadav007/output/github-snake-dark.svg" />
