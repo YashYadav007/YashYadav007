@@ -1,0 +1,13 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="360" rx="24" fill="#0A0F18"/><rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#263244"/>
+<text x="42" y="48" fill="#64748B" font-family="ui-monospace,monospace" font-size="15">SYSTEM://LOADOUT</text><circle cx="1125" cy="40" r="5" fill="#22C55E"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle><text x="1140" y="46" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="14">READY</text>
+<line x1="40" y1="70" x2="1160" y2="70" stroke="#1F2937"/>
+<text x="55" y="112" fill="#38BDF8" font-family="ui-monospace,monospace" font-size="16">CORE</text><text x="55" y="145" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="21">Python  TypeScript  Java  Rust</text>
+<text x="55" y="202" fill="#A78BFA" font-family="ui-monospace,monospace" font-size="16">BUILD</text><text x="55" y="235" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="21">React  Next.js  Node.js  FastAPI</text>
+<text x="55" y="292" fill="#22D3EE" font-family="ui-monospace,monospace" font-size="16">DATA / INFRA</text><text x="55" y="325" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="21">PostgreSQL  MySQL  Supabase  Docker  Git</text>
+<rect x="770" y="102" width="350" height="178" rx="18" fill="#0D1725" stroke="#263244"/>
+<text x="800" y="138" fill="#64748B" font-family="ui-monospace,monospace" font-size="14">CURRENT BUILD PROFILE</text>
+<text x="800" y="177" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="20">AI / BACKEND</text><rect x="800" y="191" width="270" height="7" rx="4" fill="#172033"/><rect x="800" y="191" width="230" height="7" rx="4" fill="url(#g)" filter="url(#glow)"><animate attributeName="width" values="40;230;230" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="800" y="232" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="20">FULL STACK / SYSTEMS</text><rect x="800" y="246" width="270" height="7" rx="4" fill="#172033"/><rect x="800" y="246" width="205" height="7" rx="4" fill="#38BDF8"><animate attributeName="opacity" values=".45;1;.45" dur="2s" repeatCount="indefinite"/></rect>
+</svg>
