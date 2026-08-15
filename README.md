@@ -57,6 +57,10 @@
 
 <img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/system-loadout.svg" width="100%" alt="System loadout" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/YashYadav007/YashYadav007/main/assets/github-stats.svg" width="100%" alt="GitHub stats HUD" />
+
 </div>
 
 <br/>
