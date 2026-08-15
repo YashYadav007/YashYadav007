@@ -1,0 +1,36 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="330" rx="24" fill="#0A0F18"/>
+<rect x="1" y="1" width="1198" height="328" rx="23" fill="none" stroke="#263244"/>
+<text x="42" y="48" fill="#64748B" font-family="ui-monospace,monospace" font-size="15">GITHUB://STATS</text>
+<circle cx="1125" cy="40" r="5" fill="#22C55E"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<text x="1140" y="46" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="14">SYNCED</text>
+<line x1="40" y1="70" x2="1160" y2="70" stroke="#1F2937"/>
+
+<g>
+  <rect x="55" y="100" width="235" height="92" rx="16" fill="#0D1725" stroke="#263244"/>
+  <text x="78" y="128" fill="#64748B" font-family="ui-monospace,monospace" font-size="13">PUBLIC REPOS</text>
+  <text x="78" y="171" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="34" font-weight="700">9</text>
+
+  <rect x="310" y="100" width="235" height="92" rx="16" fill="#0D1725" stroke="#263244"/>
+  <text x="333" y="128" fill="#64748B" font-family="ui-monospace,monospace" font-size="13">FOLLOWERS</text>
+  <text x="333" y="171" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="34" font-weight="700">3</text>
+
+  <rect x="565" y="100" width="235" height="92" rx="16" fill="#0D1725" stroke="#263244"/>
+  <text x="588" y="128" fill="#64748B" font-family="ui-monospace,monospace" font-size="13">FOLLOWING</text>
+  <text x="588" y="171" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="34" font-weight="700">1</text>
+
+  <rect x="820" y="100" width="325" height="92" rx="16" fill="#0D1725" stroke="#263244"/>
+  <text x="843" y="128" fill="#64748B" font-family="ui-monospace,monospace" font-size="13">GITHUB SINCE</text>
+  <text x="843" y="171" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="34" font-weight="700">2022</text>
+</g>
+
+<text x="55" y="235" fill="#38BDF8" font-family="ui-monospace,monospace" font-size="15">CODE SIGNAL</text>
+<text x="55" y="268" fill="#F8FAFC" font-family="ui-monospace,monospace" font-size="19">Python  •  TypeScript  •  JavaScript  •  Rust</text>
+<rect x="55" y="287" width="1090" height="9" rx="5" fill="#172033"/>
+<rect x="55" y="287" width="845" height="9" rx="5" fill="url(#g)" filter="url(#glow)"><animate attributeName="width" values="120;845;845" dur="2.6s" repeatCount="indefinite"/></rect>
+<text x="925" y="270" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="14">AI AGENT + FITNESS AI + PROFILE</text>
+</svg>
