@@ -20,6 +20,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: YashYadav007
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
