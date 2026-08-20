@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 0 * * *"
 
 permissions:
   contents: write
@@ -15,15 +15,22 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Checkout contribution history
+        uses: actions/checkout@v4
         with:
-          github_user_name: YashYadav007
-          github_token: ${{ secrets.SNAKE_TOKEN }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          repository: YashYadav007/gitContribution
+          path: gitContribution
+          fetch-depth: 0
+
+      - name: Generate rolling 365-day snake
+        env:
+          SNAKE_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+        run: python3 scripts/generate_custom_snake.py
 
       - name: Publish snake to gh-pages branch
         uses: crazy-max/ghaction-github-pages@v4
